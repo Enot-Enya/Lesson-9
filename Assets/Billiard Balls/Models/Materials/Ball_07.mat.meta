@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb3b3008af51c56448783fdd2c3045bd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 6353
+  packageName: Billiard Balls
+  packageVersion: 1.01
+  assetPath: Assets/Billiard Balls/Models/Materials/Ball_07.mat
+  uploadId: 11895

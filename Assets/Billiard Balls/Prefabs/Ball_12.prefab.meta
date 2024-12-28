@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 86b74ed43f889e84fb57d70dba575ace
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 6353
+  packageName: Billiard Balls
+  packageVersion: 1.01
+  assetPath: Assets/Billiard Balls/Prefabs/Ball_12.prefab
+  uploadId: 11895
